@@ -61,4 +61,4 @@ Telegram频道传送门：精选高质量Telegram频道，涵盖娱乐、资讯�
 社会影响：
 
 作为集八卦爆料、事件追踪与资料整理于一体的综合平台，该项目系统梳理娱乐圈与网红圈的重要事件节点，按时间线清晰呈现爆料全貌。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/ee20250626/ee9）</span>
